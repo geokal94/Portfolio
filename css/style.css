@@ -2,7 +2,7 @@
 body {
   font-family: 'Muli', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   padding-top: 54px;
-  color: #62666b;
+  color: #343a40;
 }
 
 @media (min-width: 992px) {
@@ -47,6 +47,7 @@ p.lead {
   font-weight: 500;
   font-family: 'Saira Extra Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   font-size: 1.5rem;
+  color:#62666b;
 }
 
 .title-subheading {
@@ -220,5 +221,13 @@ a.github-logo:hover {
 }
 
 .li-skills {
+  font-size:1.2rem;
+}
+
+.school-font {
+  font-size:1.3rem;
+}
+
+.interests-font {
   font-size:1.2rem;
 }
